@@ -169,7 +169,7 @@ created array for all algorithms during run. The algorithms taking the random ar
 sorting function call. Meaning that algorithms take random array for 10 times and calculating
 average execution time of it.
 
-![Empirical Study first case](screenshots/first case.png)
+![Empirical Study first case](https://github.com/ahmetksrts/Empirical-Study/blob/main/screenshots/first%20case.png)
 
 
 The improved bubble sort algorithm in this study breaks loop early if the array is already sorted.
@@ -199,6 +199,7 @@ which effects positively by approximately 89.1%.
 
 The following table and chart represent second case.
 
+![Empirical Study second case](https://github.com/ahmetksrts/Empirical-Study/blob/main/screenshots/second%20case.png)
 
 When we consider this chart, we can say that again in this scenario, Merge Sort gives the best
 efficiency. Improved Bubble Sort algorithm seems more efficient compare to Bubble Sort
