@@ -169,6 +169,7 @@ created array for all algorithms during run. The algorithms taking the random ar
 sorting function call. Meaning that algorithms take random array for 10 times and calculating
 average execution time of it.
 
+![Empirical Study first case](screenshots/first case.png)
 
 
 The improved bubble sort algorithm in this study breaks loop early if the array is already sorted.
