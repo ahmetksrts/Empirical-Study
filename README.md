@@ -229,4 +229,5 @@ problem sizes that can be sorted within two seconds:
     is 25 seconds approximately. I can also sort 10,000 sized arrays in approximately 184.
     milliseconds. So, it can sort an array size between 10,000 and 100,000 within 2 seconds.
 
+**YouTube link**: https://youtu.be/wYMT3WVI1bc
 
