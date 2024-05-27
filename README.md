@@ -216,44 +216,7 @@ algorithm and Quick Sort algorithm are similar in terms of execution times. Beca
 Improved Quick Sort algorithm, the algorithm uses Selection Sort if the input size is less than a
 threshold value of 20.
 
-```
-0,
-```
-```
-0,
-```
-```
-0,
-```
-```
-1,
-```
-```
-10,
-```
-```
-100,
-```
-```
-1000,
-```
-```
-10000,
-```
-```
-100000,
-```
-```
-BubbleSort
-```
-```
-Improved
-BubbleSort QuickSort
-```
-```
-Improved
-QuickSort MergeSort SelectionSort
-```
+
 ### Chart Title
 
 ```
@@ -276,47 +239,6 @@ of sorted array. It decreases the consumed time from 42.2 microseconds to 4.6 mi
 which effects positively by approximately 89.1%.
 
 The following table and chart represent second case.
-
-## in terms of milliseconds (ms), 10 runs
-
-### Algorithm/Input
-
-### Size
-
-### input size =
-
-### 100
-
-### input size =
-
-### 1000
-
-
-### 10000
-
-### input size =
-
-### 100000
-
-### BubbleSort 0,0276 2,1528 214,0620 21726,
-
-### Improved
-
-### BubbleSort
-
-### 0,0041 0,4074 46,4703 4984,
-
-### QuickSort 0,0331 3,0513 294,8410 17018,
-
-### Improved
-
-### QuickSort
-
-### 0,0323 3,0552 298,6380 16991,
-
-### MergeSort 0,0618 0,7153 7,8938 50,
-
-### SelectionSort 0,0205 1,8968 184,9080 10655,
 
 
 When we consider this chart, we can say that again in this scenario, Merge Sort gives the best
