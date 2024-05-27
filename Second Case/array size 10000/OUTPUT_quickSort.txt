@@ -1,0 +1,11 @@
+1. run is: 4440 microseconds
+2. run is: 327073 microseconds
+3. run is: 326960 microseconds
+4. run is: 326086 microseconds
+5. run is: 326974 microseconds
+6. run is: 328808 microseconds
+7. run is: 325984 microseconds
+8. run is: 326213 microseconds
+9. run is: 327740 microseconds
+10. run is: 328130 microseconds
+Average execution time over 10 runs: 294841 microseconds

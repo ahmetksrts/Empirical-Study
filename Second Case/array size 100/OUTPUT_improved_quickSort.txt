@@ -1,0 +1,11 @@
+1. run is: 8 microseconds
+2. run is: 35 microseconds
+3. run is: 35 microseconds
+4. run is: 36 microseconds
+5. run is: 35 microseconds
+6. run is: 35 microseconds
+7. run is: 35 microseconds
+8. run is: 35 microseconds
+9. run is: 34 microseconds
+10. run is: 35 microseconds
+Average execution time over 10 runs: 32.3 microseconds
