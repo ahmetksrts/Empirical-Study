@@ -170,45 +170,7 @@ sorting function call. Meaning that algorithms take random array for 10 times an
 average execution time of it.
 
 
-```
-in terms of milliseconds (ms), 10 runs
-```
-```
-Algorithm/Input
-Size
-```
-```
-input size =
-100
-```
-```
-input size =
-1000
-```
-```
-input size =
-10000
-```
-```
-input size =
-100000
-BubbleSort 0,0453 4,0756 454,3610 56570,
-Improved
-BubbleSort
-```
-#### 0,0422 4,1183 464,7140 51189,
 
-```
-QuickSort 0,0044 0,1195 4,3774 341,
-Improved
-QuickSort
-```
-#### 0,0055 0,1019 4,2542 341,
-
-```
-MergeSort 0,0638 0,7709 8,6631 95,
-SelectionSort 0,0206 1,8938 184,8010 25966,
-```
 The improved bubble sort algorithm in this study breaks loop early if the array is already sorted.
 As a result, it is pretty same as Bubble Sort algorithm compare to execution time since the
 algorithm takes random array (firstly given input) at each run. Likely, Improved Quick Sort
@@ -217,11 +179,7 @@ Improved Quick Sort algorithm, the algorithm uses Selection Sort if the input si
 threshold value of 20.
 
 
-### Chart Title
 
-```
-input size = 100 input size = 1000 input size = 10000 input size = 100000
-```
 
 In this scenario, Merge Sort have a better sustainability among others. Bubble Sort and Improved
 Bubble Sort algorithms are similar and non-efficient ones. Selection Sort is an inefficient
@@ -262,50 +220,6 @@ problem sizes that can be sorted within two seconds:
     It can sort more than 100,000 size random array within 2 seconds.
 - **Improved Quick Sort** : It can sort 100,000 sized random arrays within 341.
     milliseconds. Similar with the Quick Sort.
-
-```
-0,
-```
-```
-0,
-```
-```
-0,
-```
-```
-1,
-```
-```
-10,
-```
-```
-100,
-```
-```
-1000,
-```
-```
-10000,
-```
-```
-100000,
-```
-```
-BubbleSort
-```
-```
-Improved
-BubbleSort QuickSort
-```
-```
-Improved
-QuickSort MergeSort SelectionSort
-```
-### Chart Title
-
-```
-input size = 100 input size = 1000 input size = 10000 input size = 100000
-```
 
 - **Merge Sort** : It can sort 100,000 sized random arrays within 95.1421 milliseconds. It can
     sort more than 100,000 size arrays within 2 seconds.
